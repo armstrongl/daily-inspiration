@@ -7,21 +7,21 @@ layout: default
 
   {% for post in site.posts %}
     <div class="day-entry">
-      <p class="day-date">
+      <h3 class="day-date">
         <a href="{{ post.url | relative_url }}">{{ post.date | date: "%B %-d, %Y" }}</a>
-      </p>
-      {% assign sections = post.content | split: "<hr />" %}
-      <ul class="day-previews">
-        {% for section in sections %}
-          {% assign trimmed = section | strip %}
-          {% if trimmed != "" %}
-            {% assign first_para = trimmed | split: "</p>" | first | strip_html | truncatewords: 18 %}
-            {% if first_para != "" %}
-              <li class="day-preview">{{ first_para }}</li>
-            {% endif %}
-          {% endif %}
-        {% endfor %}
-      </ul>
+      </h3>
+
+      {% if post.summary %}
+        <p class="day-summary">{{ post.summary }}</p>
+      {% endif %}
+
+      {% if post.titles %}
+        <ul class="day-titles">
+          {% for title in post.titles %}
+            <li>{{ title }}</li>
+          {% endfor %}
+        </ul>
+      {% endif %}
     </div>
   {% endfor %}
 </div>

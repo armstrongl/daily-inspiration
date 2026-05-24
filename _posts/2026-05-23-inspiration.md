@@ -3,6 +3,14 @@ layout: "post"
 title: "2026-05-23"
 date: "2026-05-23"
 message_count: 6
+summary: "Shingles vaccine and dementia prevention, a lost Babylonian hymn reconstructed, and moral progress through attention."
+titles:
+  - "Shingles vaccine and dementia prevention"
+  - "A lost Babylonian hymn reconstructed"
+  - "Moral progress through attention"
+  - "Construction costs never fall"
+  - "28 new species off Argentina"
+  - "Creative cognition is structural, not talent"
 sources:
   - "https://med.stanford.edu/news/all-news/2025/03/shingles-vaccination-dementia.html"
   - "https://scitechdaily.com/researchers-discover-lost-3000-year-old-babylonian-hymn/"

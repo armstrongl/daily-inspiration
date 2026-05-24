@@ -3,6 +3,11 @@ layout: "post"
 title: "2026-05-21"
 date: "2026-05-21"
 message_count: 3
+summary: "Chronic pain as a brain decision, bottling the sun in a molecule, and writing as experiment."
+titles:
+  - "Chronic pain as a brain decision"
+  - "Bottling the sun in a molecule"
+  - "Writing as experiment, not demonstration"
 sources:
   - "https://www.sciencedaily.com/releases/2026/04/260426012317.htm"
   - "https://news.ucsb.edu/2026/022384/ucsb-scientists-bottle-sun-liquid-battery"

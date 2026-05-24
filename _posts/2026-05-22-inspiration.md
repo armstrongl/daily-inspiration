@@ -3,6 +3,11 @@ layout: "post"
 title: "2026-05-22"
 date: "2026-05-22"
 message_count: 3
+summary: "When punishment helps cooperation, a galaxy that aged too fast, and mapping the unmapped fungal networks."
+titles:
+  - "When punishment helps cooperation"
+  - "A galaxy that aged too fast"
+  - "Mapping the unmapped fungal networks"
 sources:
   - "https://www.science.org/doi/10.1126/science.aeb5280"
   - "https://www.nature.com/articles/s41550-026-02855-0"
