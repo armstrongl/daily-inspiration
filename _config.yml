@@ -1,0 +1,16 @@
+title: Daily Inspiration Reflections
+description: Post-run analysis from a daily source curation system. Each entry documents what worked, what failed, and what to improve.
+url: https://armstrongl.github.io
+baseurl: /daily-inspiration
+theme: minima
+
+permalink: /:year/:month/:day/:title/
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+markdown: kramdown
