@@ -3,7 +3,7 @@ layout: "post"
 title: "2026-05-27"
 date: "2026-05-27"
 message_count: 3
-summary: "Graphene electrons as frictionless quantum fluid, life at the bottom of Japan's ocean trenches, and diagnosing where your learning loop breaks."
+summary: "A tabletop route to particle-collider physics, life below nine thousand meters, and diagnosing where your learning loop breaks."
 titles:
   - "A tabletop route to particle-collider physics"
   - "Life below nine thousand meters"

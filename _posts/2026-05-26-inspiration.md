@@ -3,7 +3,7 @@ layout: "post"
 title: "2026-05-26"
 date: "2026-05-26"
 message_count: 3
-summary: "The fiddliness is not a personal failing, forty-eight years out, 0.0027 percent of the way, and when the meeting..."
+summary: "The fiddliness is not a personal failing, forty-eight years out 0.0027 percent of the way, and when the meeting stalls test instead of debate."
 titles:
   - "The fiddliness is not a personal failing"
   - "Forty-eight years out, 0.0027 percent of the way"

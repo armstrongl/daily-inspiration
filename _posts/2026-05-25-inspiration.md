@@ -3,7 +3,7 @@ layout: "post"
 title: "2026-05-25"
 date: "2026-05-25"
 message_count: 3
-summary: "Thousand-kilometer navigation on fewer than a million neurons, air sealed for six million years, and the constraint..."
+summary: "Thousand-kilometer navigation on fewer than a million neurons, air sealed for six million years, and the constraint that unlocks the blank page."
 titles:
   - "Thousand-kilometer navigation on fewer than a million neurons"
   - "Air sealed for six million years"
