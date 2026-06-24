@@ -1,5 +1,18 @@
-## 2026-06-24
-
+---
+layout: "post"
+title: "2026-06-24"
+date: "2026-06-24"
+message_count: 3
+summary: "Printed semiconductor neurons that fire living brain cells, supermassive stars hiding as mysterious red dots in the early universe, and a therapist's rupture repair that became the turning point."
+titles:
+  - "Printed neurons that talk to living brain cells"
+  - "Stars a million times the Sun hiding as red dots"
+  - "The repair that mattered more than the technique"
+sources:
+  - "https://www.nature.com/articles/s41565-026-02149-6"
+  - "https://iopscience.iop.org/article/10.3847/1538-4357/ae32f3"
+  - "https://aeon.co/essays/our-crisis-is-not-loneliness-but-human-beings-becoming-invisible"
+---
 ### Printed neurons that talk to living brain cells
 
 Northwestern engineers printed artificial neurons from semiconductor ink on flexible plastic. The voltage spikes these printed devices produce match the timing, shape, and duration of real action potentials closely enough that when placed against slices of mouse brain tissue, living Purkinje neurons fired back as though the signal came from a neighbor. The boundary between electronic and biological neural signaling turns out to be thinner than the devices themselves.
@@ -27,33 +40,3 @@ Sociologist Allison Pugh spent years studying therapists, teachers, and physicia
 [Read the source](https://aeon.co/essays/our-crisis-is-not-loneliness-but-human-beings-becoming-invisible)
 
 *Chosen because it grounds an interpersonal practice in a specific, documented moment where noticing changed everything.*
-
-## 2026-06-23
-
-### Plants borrowing bacterial chemistry
-
-The plant Flueggea suffruticosa makes a powerful alkaloid called securinine using a gene that looks bacterial, not plant. When University of York researchers went looking for similar genes across other species, they found them everywhere, hiding in plain sight. Plants have been borrowing microbial chemistry tools for their own defense, and nobody noticed because nobody thought to look for bacterial-style machinery in a plant genome.
-
-[Read the source](https://www.york.ac.uk/news-and-events/news/2026/research/plant-new-ways-producing-medicines/)
-
-*Chosen because it dissolves the assumed boundary between plant and microbial biochemistry, with immediate consequences for how we search for new drugs.*
-
----
-
-### A lost Alexandrian port under the Iraqi desert
-
-In 324 BC, Alexander the Great founded a port city on the Tigris that grew into a trade hub connecting Mesopotamia to India and China. The river shifted course in the 3rd century AD, the harbor went dry, and the city vanished. An international team has now confirmed its location at Jebel Khayyaber in Iraq, where drone surveys revealed a grid-planned metropolis with some of the largest residential blocks known anywhere in the ancient world.
-
-[Read the source](https://archaeology.org/news/2026/02/10/new-research-confirms-location-of-lost-city-founded-by-alexander-the-great/)
-
-*Chosen because a 2,300-year-old city that connected three continents was sitting under Iraqi desert soil, inaccessible for decades due to war, waiting for someone to finally look.*
-
----
-
-### The diagnostic-to-strategic question swap
-
-Patricia Chen's lab found that when people are stuck, the shape of the question they ask predicts what happens next. "Am I smart enough?" invites a verdict; "What else could I try?" opens a search for strategies. Across experiments published in PNAS, people taught to swap diagnostic questions for strategic ones showed measurably better metacognition and goal achievement. Worth trying the next time you catch yourself asking whether rather than what.
-
-[Read the source](https://www.pnas.org/doi/10.1073/pnas.2002529117)
-
-*Chosen because it converts a research finding about question framing into a one-sentence practice anyone can run today.*
