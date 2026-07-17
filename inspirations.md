@@ -1,3 +1,63 @@
+## 2026-07-16
+
+### Thirty-seven years to disprove stable carbon
+
+Jerry Melillo started heating plots in the Harvard Forest 37 years ago, keeping the soil 5°C above ambient year-round. For three decades, the "stable" fraction of soil organic matter held, carbon locked in forms scientists assumed would resist decomposition. Then, in the experiment's fourth decade, it began to break down too. The assumption that some soil carbon is essentially permanent turns out to be wrong on a timescale we can now observe directly.
+
+[Read the source](https://www.mbl.edu/news/decades-long-study-finds-stable-soil-carbon-degrades)
+
+*Chosen because it overturns a load-bearing assumption in climate models through the sheer patience of an experiment that simply kept asking the question.*
+
+---
+
+### Half an ice sheet, one hidden structure
+
+Beneath more than three kilometers of East Antarctic ice, a team led by Durham University identified a single fan-shaped geological structure connecting basins that had been studied separately for decades, including the one holding Lake Vostok, the largest subglacial lake on Earth. The structure likely formed through rotational extension of continental crust during the breakup of Gondwana, and it underlies roughly half the East Antarctic Ice Sheet. We mapped the surface of Mars before recognizing the shape of the ground under this continent's ice.
+
+[Read the source](https://www.nature.com/articles/s41561-026-01991-6)
+
+*Chosen because the scale of what was hidden, half an ice sheet sitting atop one interconnected structure, exceeds what most people imagine remains undiscovered on Earth.*
+
+---
+
+### The practice gap in knowledge work
+
+Andy Matuschak observed that athletes and musicians pursue virtuosity in fundamental skills with a rigor that knowledge workers almost never apply to their own fundamentals: reading, note-taking, developing ideas over time. The gap isn't about talent or hours; knowledge workers rarely identify which skills are foundational, let alone practice them with the kind of attention a pianist gives to scales. What's one core skill in your daily work that you've been performing on autopilot rather than deliberately practicing?
+
+[Read the source](https://notes.andymatuschak.org/zBmSSpM1WfFDehxNCBcqSZp?stackedNotes=zMX9Lfuz8sGfDUivWZcyWT)
+
+*Chosen because it names a specific, addressable gap rather than offering another productivity technique.*
+
+## 2026-07-15
+
+### The first dentist was a Neandertal
+
+A 59,000-year-old molar from Siberia's Chagyrskaya Cave was drilled out with a stone tool to remove infected tissue, pushing back the earliest evidence of dentistry by more than 40,000 years. Wear on the remaining tooth shows the patient survived and continued chewing for years afterward. The operation required identifying decay as the cause of pain, understanding removal would help, and carrying it out on someone else, a chain of reasoning that had only been documented in modern humans until now.
+
+[Read the source](https://doi.org/10.1371/journal.pone.0347662)
+
+*Chosen because it rewrites the timeline of deliberate medical intervention and forces a specific reassessment of what Neandertals understood about cause and treatment.*
+
+---
+
+### Right whales' best calving season in 15 years
+
+Twenty-three North Atlantic right whale calves were born this season, the highest count since 2009. More telling than the raw number: thirteen returning mothers last calved in 2021 or 2022, pulling birth intervals back toward the healthy three-to-four-year range after years of seven-to-ten-year gaps. With roughly 380 whales remaining, recovery needs around 50 calves per year, but the interval data suggests the population's reproductive health is improving rather than just having one good year.
+
+[Read the source](https://www.fisheries.noaa.gov/feature-story/numbers-2026-north-atlantic-right-whale-calving-season)
+
+*Chosen because the shortened birth intervals matter more than the calf count, as they indicate systemic reproductive recovery rather than statistical noise.*
+
+---
+
+### Reading reshapes more than you think
+
+Falk Huettig at the Max Planck Institute for Psycholinguistics compiled decades of cross-disciplinary research and found that learning to read physically reshapes the brain's memory, attention, reasoning, and visual perception networks. One counterintuitive finding from studies comparing literate and illiterate adults in India: literacy improves face recognition rather than crowding it out, because it fine-tunes the entire visual system instead of stealing neural space from older circuits. Meta-analyses also show that people retain less from screens than print, not because of the technology, but because readers unconsciously treat paper as the serious medium and invest more cognitive effort. What might happen if you picked up something complex in print this week, not as a nostalgia project, but because your brain apparently changes its effort level based on what it's reading from?
+
+[Read the source](https://neurosciencenews.com/literacy-reshapes-cognition-30955/)
+
+*Chosen because it grounds a common intuition ("paper feels different") in a specific cognitive mechanism, with the face recognition finding as a genuine surprise.*
+
 ## 2026-07-10
 
 ### Nine entangled particles in a crystal you can hold
